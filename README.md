@@ -3,6 +3,15 @@
 
 React Js Fundamentals Course 2020
 
+
+## 10 07일
+>1. 각 배열의 요소에 rating(평점)을 추가해보았다.
+>2. prop-type을 설치하였다.
+>3. package.json의 dependencies키에 있는값에 prop-type을 확인하였다.
+>4. isrequired의 뜻을 살펴보았다.
+* 언제까지? 10월 13일까지.
+
+
 ## 09 25일
 >1. 비슷한 컴포넌트를 여러개 만들어 보았다.
 >2. map() 함수로 컴포넌트를 여러개 많이 만들었다.
