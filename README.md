@@ -3,6 +3,16 @@
 
 React Js Fundamentals Course 2020
 
+## 11 06일
+>1. App,Movie컴포넌트에 html을 추가해보았다.
+>2. props를 이용하여 영화포스터 이미지를 추가했다.
+>3. css파일을 app,movie컴포넌트에 improt하였다
+>4. Class 속성이름 className으로 바꿔주었다.
+>5. Movie컴포넌트에 props를 추가하였다.
+
+
+
+
 ## 10 30일
 >1. Jsom viewr를 이용하여 min스타일 목록데이터를 보기 편하게 하였다.
 >2. YTS 영화 데이터 api사이트에 접속해보았다.
