@@ -4,6 +4,15 @@
 React JS Fundamentals Course 2020
 
 
+# 11 20일
+1. gh-pages를 설치하였으나 오류가 났다.
+2. location state를 활용하였다.
+3. Detail.js를 만들어 영화의 상세페이지를 만들었다.
+4. Movie 컴포넌트에 link컴포넌트를 import 하였다.
+5. push 함수를 사용해보았다.
+
+
+
 # 11 13일
 1. react-router-dom을 설치하였다..
 2. css파일을 다수 작성하였고 적용하였다.
