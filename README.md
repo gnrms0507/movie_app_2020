@@ -5,7 +5,7 @@ React JS Fundamentals Course 2020
 
 
 # 11 13일
-1. react-router-dom을 설치하였다.
+1. react-router-dom을 설치하였다..
 2. css파일을 다수 작성하였고 적용하였다.
 3. HashRouter와 Router컴포넌트를 import하고 사용하였다.
 4. 라우터를 테스트하고 문제점을 찾아보았다.( localhost:3000/about에 About컴포넌트말고 Movie컴포넌트가 함께 출력되었다.)
